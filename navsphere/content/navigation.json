@@ -1205,7 +1205,7 @@
               "enabled": true
             }
           ],
-          "enabled": true
+          "enabled": false
         },
         {
           "id": "4",
@@ -1239,7 +1239,7 @@
               "enabled": true
             }
           ],
-          "enabled": true
+          "enabled": false
         },
         {
           "id": "5",
@@ -1257,7 +1257,7 @@
               "enabled": true
             }
           ],
-          "enabled": true
+          "enabled": false
         },
         {
           "id": "6",
@@ -1299,7 +1299,7 @@
               "enabled": true
             }
           ],
-          "enabled": true
+          "enabled": false
         },
         {
           "id": "7",
@@ -1317,11 +1317,11 @@
               "enabled": true
             }
           ],
-          "enabled": true
+          "enabled": false
         }
       ],
       "description": "",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "8",
