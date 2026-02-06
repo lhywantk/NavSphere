@@ -1569,6 +1569,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "b9e88ff9-8b84-48bb-bea4-e1b068049ed4",
+          "title": "国外",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
