@@ -965,7 +965,7 @@
           "title": "国外平台",
           "icon": "Book",
           "description": "",
-          "enabled": false,
+          "enabled": true,
           "items": [
             {
               "id": "1755168164096",
