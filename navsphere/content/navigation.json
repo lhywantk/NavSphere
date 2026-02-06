@@ -1552,7 +1552,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "4cf91eec-e856-4534-a265-d11ce2d5476d",
+          "title": "国内",
+          "icon": "Link",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
