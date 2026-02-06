@@ -1576,7 +1576,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1770421895831",
+              "title": "来自第一大提供商的动态住宅代理 | Oxylabs",
+              "href": "https://oxylabs.cn/products/residential-proxy-pool?utm_source=1658&utm_medium=affiliate&groupid=1658&transaction_id=10237ee2a0c47f358493105ec3e8f7",
+              "description": "超过1亿个全球动态住宅代理，支持城市级定向，无IP封锁。了解有关我们可靠且高性能的住宅IP的更多信息！",
+              "icon": "/assets/favicon_1770421952382.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
