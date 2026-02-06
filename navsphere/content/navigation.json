@@ -998,7 +998,7 @@
           "title": "公众号排版",
           "icon": "Edit",
           "description": "",
-          "enabled": false,
+          "enabled": true,
           "items": [
             {
               "id": "1754791068961",
