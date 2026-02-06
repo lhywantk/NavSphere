@@ -1433,7 +1433,7 @@
               "enabled": true
             }
           ],
-          "enabled": true
+          "enabled": false
         },
         {
           "id": "8_2",
@@ -1475,7 +1475,7 @@
               "enabled": true
             }
           ],
-          "enabled": true
+          "enabled": false
         },
         {
           "id": "8_3",
@@ -1501,9 +1501,11 @@
               "enabled": true
             }
           ],
-          "enabled": true
+          "enabled": false
         }
-      ]
+      ],
+      "description": "",
+      "enabled": false
     },
     {
       "id": "1760512235168",
