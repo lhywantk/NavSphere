@@ -1089,7 +1089,7 @@
           "title": "付费订阅平台",
           "icon": "BookOpen",
           "description": "",
-          "enabled": false,
+          "enabled": true,
           "items": [
             {
               "id": "1759043230164",
