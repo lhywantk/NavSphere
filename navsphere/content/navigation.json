@@ -1047,7 +1047,7 @@
           "title": "录屏工具",
           "icon": "Folder",
           "description": "",
-          "enabled": false,
+          "enabled": true,
           "items": [
             {
               "id": "1753395646962",
