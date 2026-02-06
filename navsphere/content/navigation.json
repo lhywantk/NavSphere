@@ -1520,7 +1520,7 @@
           "title": "文档工具",
           "icon": "Edit",
           "description": "",
-          "enabled": false,
+          "enabled": true,
           "items": [
             {
               "id": "1760512389014",
