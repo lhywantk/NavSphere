@@ -70,6 +70,14 @@
               "description": "",
               "icon": "/assets/favicon_1770464686306.ico",
               "enabled": true
+            },
+            {
+              "id": "1770464740877",
+              "title": "鲸云IP",
+              "href": "https://console.51tcp.com/auth/register?i=z3vn",
+              "description": "",
+              "icon": "/assets/favicon_1770464747087.ico",
+              "enabled": true
             }
           ]
         },
