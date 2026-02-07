@@ -1781,7 +1781,7 @@
       "title": "GEO优化系统",
       "icon": "FolderKanban",
       "description": "",
-      "enabled": true,
+      "enabled": false,
       "items": [],
       "subCategories": []
     }
