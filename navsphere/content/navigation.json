@@ -2055,6 +2055,14 @@
           "description": "夜神安卓模擬器（夜神模擬器），是全新一代的安卓模擬器，與傳統安卓模擬器相比，基於android7.1同時支援android9，,相容X86/AMD,多開功能快速切換32/64bit遊戲場景，在效能、穩定性、相容性等方面有著巨大優勢。支援高幀率模式，用鍵盤滑鼠及手把完美操控手機遊戲。優質遊戲的提供，完美軟硬體遊戲輔助的支持，讓用戶體驗到更強的娛樂性。",
           "icon": "/assets/favicon_1770462389181.ico",
           "enabled": true
+        },
+        {
+          "id": "1770462434241",
+          "title": "Bluestacks",
+          "href": "https://www.bluestacks.cn/",
+          "description": "",
+          "icon": "/assets/favicon_1770462438748.png",
+          "enabled": true
         }
       ],
       "subCategories": []
