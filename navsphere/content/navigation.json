@@ -1835,7 +1835,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1770441785574",
+          "title": "NewsNow",
+          "href": "https://newsnow-aif.pages.dev/c/hottest",
+          "description": "NewsNow - 实时新闻聚合阅读器，汇集全球热点新闻，提供优雅的阅读体验",
+          "icon": "/assets/favicon_1770441788962.svg",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
