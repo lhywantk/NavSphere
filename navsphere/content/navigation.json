@@ -94,6 +94,14 @@
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.tianjiip.com",
               "enabled": true
+            },
+            {
+              "id": "1770487742309",
+              "title": "Xysk5",
+              "href": "https://xysk5.com/views/login.html#?promotionCode=D440FBE0CED448BDAED4D04931A8E9D5",
+              "description": "",
+              "icon": "/assets/favicon_1770487747071.png",
+              "enabled": true
             }
           ]
         },
