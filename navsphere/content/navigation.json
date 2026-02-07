@@ -1,6 +1,48 @@
 {
   "navigationItems": [
     {
+      "id": "1770437907919",
+      "title": "指纹浏览器",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1770438147545",
+          "title": "Bitbrowser",
+          "href": "https://www.bitbrowser.cn/?code=339b33",
+          "description": "永久免费10个窗口",
+          "icon": "/assets/favicon_1770438152433.png",
+          "enabled": true
+        },
+        {
+          "id": "1770438180288",
+          "title": "Hubstudio",
+          "href": "https://www.hubstudio.cn/register/index.html?ref=Hw4CPcbd",
+          "description": "永久免费10个窗口",
+          "icon": "/assets/favicon_1770438215497.png",
+          "enabled": true
+        },
+        {
+          "id": "1770438311102",
+          "title": "Adspower",
+          "href": "https://www.adspower.net/share/lhywantk",
+          "description": "永久免费2个窗口",
+          "icon": "/assets/favicon_1770438315807.png",
+          "enabled": true
+        },
+        {
+          "id": "1770455850573",
+          "title": "MoreLogin",
+          "href": "https://www.morelogin.com/?from=AAtIt5xX51Lq",
+          "description": "",
+          "icon": "/assets/favicon_1770455854300.ico",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "1770421585636",
       "title": "IP购买网站",
       "icon": "FolderKanban",
@@ -1809,48 +1851,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1770437907919",
-      "title": "指纹浏览器",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1770438147545",
-          "title": "Bitbrowser",
-          "href": "https://www.bitbrowser.cn/?code=339b33",
-          "description": "永久免费10个窗口",
-          "icon": "/assets/favicon_1770438152433.png",
-          "enabled": true
-        },
-        {
-          "id": "1770438180288",
-          "title": "Hubstudio",
-          "href": "https://www.hubstudio.cn/register/index.html?ref=Hw4CPcbd",
-          "description": "永久免费10个窗口",
-          "icon": "/assets/favicon_1770438215497.png",
-          "enabled": true
-        },
-        {
-          "id": "1770438311102",
-          "title": "Adspower",
-          "href": "https://www.adspower.net/share/lhywantk",
-          "description": "永久免费2个窗口",
-          "icon": "/assets/favicon_1770438315807.png",
-          "enabled": true
-        },
-        {
-          "id": "1770455850573",
-          "title": "MoreLogin",
-          "href": "https://www.morelogin.com/?from=AAtIt5xX51Lq",
-          "description": "",
-          "icon": "/assets/favicon_1770455854300.ico",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
     },
     {
       "id": "1770437587849",
