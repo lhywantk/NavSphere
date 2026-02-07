@@ -1658,25 +1658,7 @@
           "enabled": true
         }
       ],
-      "subCategories": [
-        {
-          "id": "c6f69a54-bedf-4e63-b2c6-b5430104ace1",
-          "title": "苹果ID登录教程",
-          "icon": "Link",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1770437709140",
-              "title": "苹果ID登录教程",
-              "href": "https://my.feishu.cn/wiki/HbqxwIJg4irNfTkfU09crNW1nN6",
-              "description": "苹果ID登录教程 看完以后联系里面QQ获取账号",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=my.feishu.cn",
-              "enabled": true
-            }
-          ]
-        }
-      ]
+      "subCategories": []
     },
     {
       "id": "1770437907919",
