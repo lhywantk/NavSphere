@@ -1998,6 +1998,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1770459368519",
+      "title": "APP拉新",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
