@@ -1930,7 +1930,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "f9aeb429-c66c-4a86-8d8b-11e36cefe4d5",
+          "title": "安卓",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
