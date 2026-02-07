@@ -1512,7 +1512,7 @@
       "title": "开源项目",
       "icon": "Code",
       "description": "",
-      "enabled": true,
+      "enabled": false,
       "items": [],
       "subCategories": [
         {
@@ -1520,7 +1520,7 @@
           "title": "文档工具",
           "icon": "Edit",
           "description": "",
-          "enabled": true,
+          "enabled": false,
           "items": [
             {
               "id": "1760512389014",
