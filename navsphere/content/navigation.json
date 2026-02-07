@@ -1846,6 +1846,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1770441964982",
+      "title": "域名",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
