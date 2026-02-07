@@ -1674,6 +1674,14 @@
           "description": "比特指纹浏览器",
           "icon": "/assets/favicon_1770438152433.png",
           "enabled": true
+        },
+        {
+          "id": "1770438180288",
+          "title": "Hubstudio",
+          "href": "https://www.hubstudio.cn/register/index.html?ref=Hw4CPcbd",
+          "description": "",
+          "icon": "/assets/favicon_1770438215497.png",
+          "enabled": true
         }
       ],
       "subCategories": []
