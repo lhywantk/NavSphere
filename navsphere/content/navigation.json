@@ -1879,7 +1879,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1770449456451",
+          "title": "欧易",
+          "href": "https://www.nocmjsdty.com/join/LHYWANTK",
+          "description": "",
+          "icon": "/assets/favicon_1770449461733.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
