@@ -1693,6 +1693,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1770438665138",
+      "title": "跨境支付收款",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
