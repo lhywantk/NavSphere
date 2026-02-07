@@ -47,6 +47,14 @@
               "description": "",
               "icon": "/assets/favicon_1770427012492.png",
               "enabled": true
+            },
+            {
+              "id": "1770427083030",
+              "title": "Buy proxy. Personal anonymous IPv4/IPv6 proxies / ",
+              "href": "https://proxy6.net/?r=717765",
+              "description": "Proxy service. Buy proxy, personal and anonymous. IPv4, IPv6 proxy. HTTPs, Socks5 proxy. Proxy for social networks",
+              "icon": "/assets/favicon_1770427087181.png",
+              "enabled": true
             }
           ]
         }
