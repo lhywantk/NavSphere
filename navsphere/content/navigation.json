@@ -39,6 +39,14 @@
               "description": "超过1亿个全球动态住宅代理，支持城市级定向，无IP封锁。了解有关我们可靠且高性能的住宅IP的更多信息！",
               "icon": "/assets/favicon_1770421952382.ico",
               "enabled": true
+            },
+            {
+              "id": "1770427007133",
+              "title": "Webshare",
+              "href": "https://www.webshare.io/?referral_code=n3sgr4on8z3w",
+              "description": "",
+              "icon": "/assets/favicon_1770427012492.png",
+              "enabled": true
             }
           ]
         }
