@@ -1641,6 +1641,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1770437587849",
+      "title": "苹果ID",
+      "icon": "Folder",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
