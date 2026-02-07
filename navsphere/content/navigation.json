@@ -537,6 +537,24 @@
       "subCategories": []
     },
     {
+      "id": "1770459368519",
+      "title": "APP拉新",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1770460226780",
+          "title": "APP拉新",
+          "href": "https://dt.bd.cn/#/pages/login/register?invite_code=857798&qd=self_fans_ios",
+          "description": "TikTok拉新单价130",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=dt.bd.cn",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
@@ -2093,24 +2111,6 @@
       "description": "",
       "enabled": false,
       "items": [],
-      "subCategories": []
-    },
-    {
-      "id": "1770459368519",
-      "title": "APP拉新",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1770460226780",
-          "title": "APP拉新",
-          "href": "https://dt.bd.cn/#/pages/login/register?invite_code=857798&qd=self_fans_ios",
-          "description": "TikTok拉新单价130",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=dt.bd.cn",
-          "enabled": true
-        }
-      ],
       "subCategories": []
     },
     {
