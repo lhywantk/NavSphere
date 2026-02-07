@@ -54,6 +54,14 @@
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=share.lajiaohttp.com",
               "enabled": true
+            },
+            {
+              "id": "1770464605507",
+              "title": "咻咻IP",
+              "href": "https://www.niuniukj.com/register?code=62934060",
+              "description": "",
+              "icon": "/assets/favicon_1770464611520.png",
+              "enabled": true
             }
           ]
         },
