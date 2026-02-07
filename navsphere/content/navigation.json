@@ -78,6 +78,14 @@
               "description": "",
               "icon": "/assets/favicon_1770464747087.ico",
               "enabled": true
+            },
+            {
+              "id": "1770487633995",
+              "title": "Jiyunip",
+              "href": "https://www.jiyunip.com/login/index/index/code/5220.html",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.jiyunip.com",
+              "enabled": true
             }
           ]
         },
