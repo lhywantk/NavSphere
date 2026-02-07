@@ -95,6 +95,14 @@
               "description": "",
               "icon": "/assets/favicon_1770439332297.png",
               "enabled": true
+            },
+            {
+              "id": "1770439457471",
+              "title": "IPFoxy",
+              "href": "https://app.ipfoxy.com/registration?ref=lhywantk&snid=1768626745924394799_uDfVIR0j&x_collect_uid=2d37bdd7330b18a530bf5727bb746c8b",
+              "description": "",
+              "icon": "/assets/favicon_1770439461357.svg",
+              "enabled": true
             }
           ]
         }
