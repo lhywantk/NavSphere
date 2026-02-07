@@ -111,6 +111,14 @@
               "description": "",
               "icon": "/assets/favicon_1770439547647.png",
               "enabled": true
+            },
+            {
+              "id": "1770439570428",
+              "title": "Abcproxy",
+              "href": "https://www.abcproxy.com/?code=FB4JO3IX",
+              "description": "",
+              "icon": "/assets/favicon_1770439594445.png",
+              "enabled": true
             }
           ]
         }
