@@ -1903,6 +1903,14 @@
           "description": "欢迎加入 Bybit。创建账户，交易赚币，开启加密货币之旅。立即使用手机号或邮箱注册，畅享安全无忧的交易体验。",
           "icon": "/assets/favicon_1770449564805.png",
           "enabled": true
+        },
+        {
+          "id": "1770449611767",
+          "title": "Bitget",
+          "href": "https://www.hdmune.cn/zh-CN/expressly?channelCode=vmz7&vipCode=lhy10000&languageType=1&groupId=605367",
+          "description": "",
+          "icon": "/assets/favicon_1770449616096.png",
+          "enabled": true
         }
       ],
       "subCategories": []
