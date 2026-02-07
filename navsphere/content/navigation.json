@@ -2056,6 +2056,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=af.kuaifan.club",
           "enabled": true
+        },
+        {
+          "id": "1770460947716",
+          "title": "海外华人回国加速器",
+          "href": "https://www.golinkcn.com/mobile?invite=CILEMMIG",
+          "description": "",
+          "icon": "/assets/favicon_1770460967441.png",
+          "enabled": true
         }
       ],
       "subCategories": []
