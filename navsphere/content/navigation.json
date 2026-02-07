@@ -2064,6 +2064,14 @@
           "description": "",
           "icon": "/assets/favicon_1770460967441.png",
           "enabled": true
+        },
+        {
+          "id": "1770461012827",
+          "title": "海外华人一键回国加速器",
+          "href": "https://www.quick-fox.com/landingV5/?af_channel=cHJvbW90ZXI&af_referrer_customer_id=NDczNzI1",
+          "description": "海外华人回国加速器，为境外华人解决海外怎么听歌？海外怎么看剧？海外怎么玩游戏不卡等境外难题，全球回国稳定国内节点，专业、流畅加速让海外党们一键轻松回国，简单好用",
+          "icon": "/assets/favicon_1770461017740.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
