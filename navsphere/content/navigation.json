@@ -324,7 +324,16 @@
           "icon": "Link",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1770507605451",
+              "title": "GMGN",
+              "href": "https://gmgn.ai/r/lhywantk",
+              "description": "",
+              "icon": "/assets/favicon_1770507659372.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
