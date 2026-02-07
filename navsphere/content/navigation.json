@@ -303,6 +303,32 @@
       "subCategories": []
     },
     {
+      "id": "1770506726072",
+      "title": "交易所",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "d5c9f59f-6768-47e7-94f7-2fbee3706ab9",
+          "title": "交易所",
+          "icon": "Link",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "401db572-abec-4c4d-83d3-1e99687e0ba7",
+          "title": "冲土狗工具",
+          "icon": "Link",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
+    },
+    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
@@ -1442,32 +1468,6 @@
               "enabled": true
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "1770506726072",
-      "title": "交易所",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "d5c9f59f-6768-47e7-94f7-2fbee3706ab9",
-          "title": "交易所",
-          "icon": "Link",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "401db572-abec-4c4d-83d3-1e99687e0ba7",
-          "title": "冲土狗工具",
-          "icon": "Link",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ]
     },
