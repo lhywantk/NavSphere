@@ -1716,6 +1716,14 @@
           "description": "跨境电商收款",
           "icon": "/assets/favicon_1770438843947.png",
           "enabled": true
+        },
+        {
+          "id": "1770439056397",
+          "title": "PinkWallet - Secure Crypto Wallet &amp; Stock Trading Platform",
+          "href": "https://pinkwallet.com/agent/signup/?code=MTo1rZ",
+          "description": "PinkWallet allows you to manage crypto, cash, and stocks in one place.",
+          "icon": "/assets/favicon_1770439060599.png",
+          "enabled": true
         }
       ],
       "subCategories": []
