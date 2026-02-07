@@ -1978,7 +1978,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1770455568371",
+              "title": "星星",
+              "href": "https://m.xxyos.com/?uid=38429447",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=m.xxyos.com",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
