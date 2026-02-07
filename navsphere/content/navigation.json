@@ -1682,6 +1682,14 @@
           "description": "永久免费10个窗口",
           "icon": "/assets/favicon_1770438215497.png",
           "enabled": true
+        },
+        {
+          "id": "1770438311102",
+          "title": "Adspower",
+          "href": "https://www.adspower.net/share/lhywantk",
+          "description": "永久免费2个窗口",
+          "icon": "/assets/favicon_1770438315807.png",
+          "enabled": true
         }
       ],
       "subCategories": []
