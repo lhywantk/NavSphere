@@ -8,6 +8,6 @@ GITHUB_CLIENT_ID = "Ov23liNFx32R8AOlubiE"
 GITHUB_OWNER = "lhywantk"
 GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "https://navsphere-5nr.pages.dev/api/auth"
-NEXT_PUBLIC_API_URL="https://navsphere-5nr.pages.dev"
+NEXTAUTH_URL = "https://lhywantk.eu.cc/api/auth"
+NEXT_PUBLIC_API_URL="https://lhywantk.eu.cc"
 
