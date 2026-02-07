@@ -2023,7 +2023,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1770462225357",
+          "title": "Developer",
+          "href": "https://developer.android.com/",
+          "description": "",
+          "icon": "/assets/favicon_1770462230488.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
