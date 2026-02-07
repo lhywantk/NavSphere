@@ -1,6 +1,50 @@
 {
   "navigationItems": [
     {
+      "id": "1770421585636",
+      "title": "IP购买网站",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "4cf91eec-e856-4534-a265-d11ce2d5476d",
+          "title": "国内",
+          "icon": "Link",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1770421671100",
+              "title": "Tianxingip",
+              "href": "http://www.tianxingip.com/proxy/index/index/code/lhywantk.html",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.tianxingip.com",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "b9e88ff9-8b84-48bb-bea4-e1b068049ed4",
+          "title": "国外",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1770421895831",
+              "title": "来自第一大提供商的动态住宅代理 | Oxylabs",
+              "href": "https://oxylabs.cn/products/residential-proxy-pool?utm_source=1658&utm_medium=affiliate&groupid=1658&transaction_id=10237ee2a0c47f358493105ec3e8f7",
+              "description": "超过1亿个全球动态住宅代理，支持城市级定向，无IP封锁。了解有关我们可靠且高性能的住宅IP的更多信息！",
+              "icon": "/assets/favicon_1770421952382.ico",
+              "enabled": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
@@ -1506,50 +1550,6 @@
       ],
       "description": "",
       "enabled": false
-    },
-    {
-      "id": "1770421585636",
-      "title": "IP购买网站",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "4cf91eec-e856-4534-a265-d11ce2d5476d",
-          "title": "国内",
-          "icon": "Link",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1770421671100",
-              "title": "Tianxingip",
-              "href": "http://www.tianxingip.com/proxy/index/index/code/lhywantk.html",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.tianxingip.com",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "b9e88ff9-8b84-48bb-bea4-e1b068049ed4",
-          "title": "国外",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1770421895831",
-              "title": "来自第一大提供商的动态住宅代理 | Oxylabs",
-              "href": "https://oxylabs.cn/products/residential-proxy-pool?utm_source=1658&utm_medium=affiliate&groupid=1658&transaction_id=10237ee2a0c47f358493105ec3e8f7",
-              "description": "超过1亿个全球动态住宅代理，支持城市级定向，无IP封锁。了解有关我们可靠且高性能的住宅IP的更多信息！",
-              "icon": "/assets/favicon_1770421952382.ico",
-              "enabled": true
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "1760512235168",
