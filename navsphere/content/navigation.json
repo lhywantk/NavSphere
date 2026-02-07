@@ -1799,6 +1799,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=haoka.kakatx.com",
           "enabled": true
+        },
+        {
+          "id": "1770440653983",
+          "title": "172",
+          "href": "https://172.lot-ml.com/ProductEn/Index/863e070345a18819",
+          "description": "",
+          "icon": "/assets/favicon_1770440658884.png",
+          "enabled": true
         }
       ],
       "subCategories": []
