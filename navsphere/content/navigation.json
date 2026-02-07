@@ -1922,6 +1922,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1770455178804",
+      "title": "云手机",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
