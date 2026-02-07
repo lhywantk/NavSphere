@@ -46,6 +46,14 @@
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=user.benfuip.com",
               "enabled": true
+            },
+            {
+              "id": "1770427750121",
+              "title": "Share",
+              "href": "https://share.lajiaohttp.com/share/lhywantk",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=share.lajiaohttp.com",
+              "enabled": true
             }
           ]
         },
