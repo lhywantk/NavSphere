@@ -2031,6 +2031,14 @@
           "description": "",
           "icon": "/assets/favicon_1770462230488.png",
           "enabled": true
+        },
+        {
+          "id": "1770462283235",
+          "title": "雷电模拟器",
+          "href": "https://m.ldmnq.com/",
+          "description": "",
+          "icon": "/assets/favicon_1770462287950.png",
+          "enabled": true
         }
       ],
       "subCategories": []
