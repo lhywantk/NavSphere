@@ -1937,7 +1937,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1770455260799",
+              "title": "DuoPlus云手机 - 指纹云手机 | 移动端多账号管理专家 | TikTok账号运营",
+              "href": "https://my.duoplus.cn/landing/zh-cn/?ref=lhywantk&snid=1766516539657959876_fElLUbJX&x_collect_uid=cd5ebe82b14cb189955887236b0a8338&r=lhywantk",
+              "description": "DuoPlus 云手机是您的全球社媒多账号管理专家。云手机设备环境独立，避免账号关联风险，一键换肤，一键共享，随时随地，点开即用。DuoPlus 专注打造全球社媒营销、Tiktok 专用云手机，源自 AdsPower 技术团队！其采用真实ARM芯片，还支持全球60+国家地区代理配置，具有高仿真、低延迟、强安全的特性。",
+              "icon": "/assets/favicon_1770455265500.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "b324f943-a1aa-4345-a904-1b252bbf8e7f",
