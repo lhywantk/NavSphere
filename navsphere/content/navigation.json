@@ -2049,7 +2049,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "0ec8a4ee-048c-41e3-bbba-2fae8f09c157",
+          "title": "冲土狗工具",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1770455178804",
