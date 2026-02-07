@@ -30,6 +30,14 @@
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.gzsk5.com",
               "enabled": true
+            },
+            {
+              "id": "1770427558367",
+              "title": "Api",
+              "href": "http://api.liangziip.com:1234/reg/index.php?code=lhywantk",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=api.liangziip.com",
+              "enabled": true
             }
           ]
         },
