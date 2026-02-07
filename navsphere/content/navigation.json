@@ -118,6 +118,14 @@
               "description": "",
               "icon": "/assets/favicon_1770487842739.png",
               "enabled": true
+            },
+            {
+              "id": "1770487881554",
+              "title": "易加速",
+              "href": "https://www.dadaip.com/register?parentNo=19180",
+              "description": "",
+              "icon": "/assets/favicon_1770487886804.svg",
+              "enabled": true
             }
           ]
         },
