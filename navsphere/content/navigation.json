@@ -316,7 +316,16 @@
           "icon": "Link",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1770507706741",
+              "title": "欧易",
+              "href": "https://www.afibbjgrubxx.com/join/LHYWANTK",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.afibbjgrubxx.com",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "401db572-abec-4c4d-83d3-1e99687e0ba7",
