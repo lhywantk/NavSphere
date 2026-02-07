@@ -1938,6 +1938,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "b324f943-a1aa-4345-a904-1b252bbf8e7f",
+          "title": "苹果",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
