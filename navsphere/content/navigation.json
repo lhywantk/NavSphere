@@ -1853,7 +1853,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1770441992465",
+          "title": "Namesilo",
+          "href": "https://www.namesilo.com/?rid=6867524mq",
+          "description": "",
+          "icon": "/assets/favicon_1770441995732.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
