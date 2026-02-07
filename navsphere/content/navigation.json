@@ -1895,6 +1895,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=accounts.maxweb.red",
           "enabled": true
+        },
+        {
+          "id": "1770449559725",
+          "title": "Bybit",
+          "href": "https://www.bybits.io/zh-MY/sign-up?affiliate_id=115293&group_id=957203&group_type=1&ref_code=115293",
+          "description": "欢迎加入 Bybit。创建账户，交易赚币，开启加密货币之旅。立即使用手机号或邮箱注册，畅享安全无忧的交易体验。",
+          "icon": "/assets/favicon_1770449564805.png",
+          "enabled": true
         }
       ],
       "subCategories": []
