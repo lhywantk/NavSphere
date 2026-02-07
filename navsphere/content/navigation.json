@@ -103,6 +103,14 @@
               "description": "",
               "icon": "/assets/favicon_1770439461357.svg",
               "enabled": true
+            },
+            {
+              "id": "1770439544522",
+              "title": "922proxy",
+              "href": "https://www.922proxy.com/register?inviter_code=e4d1446f",
+              "description": "",
+              "icon": "/assets/favicon_1770439547647.png",
+              "enabled": true
             }
           ]
         }
