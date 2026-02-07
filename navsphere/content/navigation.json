@@ -1887,6 +1887,14 @@
           "description": "",
           "icon": "/assets/favicon_1770449461733.png",
           "enabled": true
+        },
+        {
+          "id": "1770449482343",
+          "title": "币安",
+          "href": "https://accounts.maxweb.red/register?ref=LHYWANTK",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=accounts.maxweb.red",
+          "enabled": true
         }
       ],
       "subCategories": []
