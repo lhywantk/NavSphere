@@ -86,6 +86,14 @@
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.jiyunip.com",
               "enabled": true
+            },
+            {
+              "id": "1770487685086",
+              "title": "天机IP",
+              "href": "http://www.tianjiip.com/#/register?invitation=lhywantk",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.tianjiip.com",
+              "enabled": true
             }
           ]
         },
