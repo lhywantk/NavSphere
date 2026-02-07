@@ -2039,6 +2039,14 @@
           "description": "",
           "icon": "/assets/favicon_1770462287950.png",
           "enabled": true
+        },
+        {
+          "id": "1770462327841",
+          "title": "Mumu",
+          "href": "https://mumu.163.com/",
+          "description": "",
+          "icon": "/assets/favicon_1770462357104.png",
+          "enabled": true
         }
       ],
       "subCategories": []
