@@ -332,6 +332,14 @@
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=accounts.maxweb.red",
               "enabled": true
+            },
+            {
+              "id": "1770507840581",
+              "title": "bybit",
+              "href": "https://partner.bybits.io/b/115293",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=partner.bybits.io",
+              "enabled": true
             }
           ]
         },
