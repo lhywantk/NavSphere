@@ -2203,7 +2203,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "d5c9f59f-6768-47e7-94f7-2fbee3706ab9",
+          "title": "交易所",
+          "icon": "Link",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
