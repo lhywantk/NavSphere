@@ -443,6 +443,74 @@
       "subCategories": []
     },
     {
+      "id": "1770455178804",
+      "title": "云手机",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "f9aeb429-c66c-4a86-8d8b-11e36cefe4d5",
+          "title": "安卓",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1770455260799",
+              "title": "DuoPlus云手机 - 指纹云手机 | 移动端多账号管理专家 | TikTok账号运营",
+              "href": "https://my.duoplus.cn/landing/zh-cn/?ref=lhywantk&snid=1766516539657959876_fElLUbJX&x_collect_uid=cd5ebe82b14cb189955887236b0a8338&r=lhywantk",
+              "description": "DuoPlus 云手机是您的全球社媒多账号管理专家。云手机设备环境独立，避免账号关联风险，一键换肤，一键共享，随时随地，点开即用。DuoPlus 专注打造全球社媒营销、Tiktok 专用云手机，源自 AdsPower 技术团队！其采用真实ARM芯片，还支持全球60+国家地区代理配置，具有高仿真、低延迟、强安全的特性。",
+              "icon": "/assets/favicon_1770455265500.ico",
+              "enabled": true
+            },
+            {
+              "id": "1770455274832",
+              "title": "TKAIO云手机平台",
+              "href": "https://www.tkaio.com/register?code=4af277",
+              "description": "",
+              "icon": "/assets/favicon_1770455306994.svg",
+              "enabled": true
+            },
+            {
+              "id": "1770455363088",
+              "title": "Redfinger App",
+              "href": "https://www.cloudemulator.net/app/sign-in?externalCode=HWYGOldm&channelCode=web",
+              "description": "Manage your redfinger account, buy or renew cloud phones, check order history.",
+              "icon": "/assets/favicon_1770455366780.png",
+              "enabled": true
+            },
+            {
+              "id": "1770455424582",
+              "title": "Zy",
+              "href": "https://zy.16163.com/app/activity.html#/personalinvite/shared/nAKR1e",
+              "description": "",
+              "icon": "/assets/favicon_1770455429663.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "b324f943-a1aa-4345-a904-1b252bbf8e7f",
+          "title": "苹果",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1770455568371",
+              "title": "星星",
+              "href": "https://m.xxyos.com/?uid=38429447",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=m.xxyos.com",
+              "enabled": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
@@ -2000,74 +2068,6 @@
       "enabled": false,
       "items": [],
       "subCategories": []
-    },
-    {
-      "id": "1770455178804",
-      "title": "云手机",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "f9aeb429-c66c-4a86-8d8b-11e36cefe4d5",
-          "title": "安卓",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1770455260799",
-              "title": "DuoPlus云手机 - 指纹云手机 | 移动端多账号管理专家 | TikTok账号运营",
-              "href": "https://my.duoplus.cn/landing/zh-cn/?ref=lhywantk&snid=1766516539657959876_fElLUbJX&x_collect_uid=cd5ebe82b14cb189955887236b0a8338&r=lhywantk",
-              "description": "DuoPlus 云手机是您的全球社媒多账号管理专家。云手机设备环境独立，避免账号关联风险，一键换肤，一键共享，随时随地，点开即用。DuoPlus 专注打造全球社媒营销、Tiktok 专用云手机，源自 AdsPower 技术团队！其采用真实ARM芯片，还支持全球60+国家地区代理配置，具有高仿真、低延迟、强安全的特性。",
-              "icon": "/assets/favicon_1770455265500.ico",
-              "enabled": true
-            },
-            {
-              "id": "1770455274832",
-              "title": "TKAIO云手机平台",
-              "href": "https://www.tkaio.com/register?code=4af277",
-              "description": "",
-              "icon": "/assets/favicon_1770455306994.svg",
-              "enabled": true
-            },
-            {
-              "id": "1770455363088",
-              "title": "Redfinger App",
-              "href": "https://www.cloudemulator.net/app/sign-in?externalCode=HWYGOldm&channelCode=web",
-              "description": "Manage your redfinger account, buy or renew cloud phones, check order history.",
-              "icon": "/assets/favicon_1770455366780.png",
-              "enabled": true
-            },
-            {
-              "id": "1770455424582",
-              "title": "Zy",
-              "href": "https://zy.16163.com/app/activity.html#/personalinvite/shared/nAKR1e",
-              "description": "",
-              "icon": "/assets/favicon_1770455429663.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "b324f943-a1aa-4345-a904-1b252bbf8e7f",
-          "title": "苹果",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1770455568371",
-              "title": "星星",
-              "href": "https://m.xxyos.com/?uid=38429447",
-              "description": "",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=m.xxyos.com",
-              "enabled": true
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "1770441964982",
