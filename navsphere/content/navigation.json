@@ -151,6 +151,14 @@
               "description": "",
               "icon": "/assets/favicon_1770464389005.png",
               "enabled": true
+            },
+            {
+              "id": "1770464423356",
+              "title": "Novada",
+              "href": "https://dashboard.novada.com/sign-up/?referral_code=sJ83jsiv",
+              "description": "",
+              "icon": "/assets/favicon_1770464427937.ico",
+              "enabled": true
             }
           ]
         }
