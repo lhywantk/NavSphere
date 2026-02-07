@@ -605,6 +605,56 @@
       "subCategories": []
     },
     {
+      "id": "1770460562778",
+      "title": "海外回国加速器",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1770460610673",
+          "title": "海外华人/留学生追剧听歌游戏必备的回国VPN",
+          "href": "https://getmalus.com/invite?affid=A326761904F",
+          "description": "免费开启高速回国通道，观看视频高清不卡顿，加速游戏不丢包，专属客服支持服务。回国游戏加速器VPN，为海外华人/留学生/港澳台地区用户提供游戏、音乐、视频、直播等加速服务，专业稳定的全球专线，带你一键穿梭回国。让你畅玩全球游戏，上国内网站，支持优酷、爱奇艺、腾讯视频、bilibili、芒果TV、西瓜视频、QQ音乐、网易云音乐、视CCTV、咪咕视频等国内网站，百万用户整体好评95%以上，一对一在线客服支持，海外党翻墙回中国首选VPN",
+          "icon": "/assets/favicon_1770460615271.ico",
+          "enabled": true
+        },
+        {
+          "id": "1770460801712",
+          "title": "加速器会员 | 清爽无广告，线路任你选",
+          "href": "https://www.transocks.com/payment?affiliate-code=jpmm4px",
+          "description": "帮助海外华人轻松回国，轻松访问国内网站或应用，畅享国内音乐和视频资源，一键解决播放卡顿。回国加速器首选穿梭加速器。",
+          "icon": "/assets/favicon_1770460825592.ico",
+          "enabled": true
+        },
+        {
+          "id": "1770460901652",
+          "title": "海外华人回国加速器",
+          "href": "https://af.kuaifan.club/scripts/chm1f4?a_aid=690d677762c73&a_bid=b9bf8033",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=af.kuaifan.club",
+          "enabled": true
+        },
+        {
+          "id": "1770460947716",
+          "title": "海外华人回国加速器",
+          "href": "https://www.golinkcn.com/mobile?invite=CILEMMIG",
+          "description": "",
+          "icon": "/assets/favicon_1770460967441.png",
+          "enabled": true
+        },
+        {
+          "id": "1770461012827",
+          "title": "海外华人一键回国加速器",
+          "href": "https://www.quick-fox.com/landingV5/?af_channel=cHJvbW90ZXI&af_referrer_customer_id=NDczNzI1",
+          "description": "海外华人回国加速器，为境外华人解决海外怎么听歌？海外怎么看剧？海外怎么玩游戏不卡等境外难题，全球回国稳定国内节点，专业、流畅加速让海外党们一键轻松回国，简单好用",
+          "icon": "/assets/favicon_1770461017740.ico",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
@@ -2161,56 +2211,6 @@
       "description": "",
       "enabled": false,
       "items": [],
-      "subCategories": []
-    },
-    {
-      "id": "1770460562778",
-      "title": "海外回国加速器",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1770460610673",
-          "title": "海外华人/留学生追剧听歌游戏必备的回国VPN",
-          "href": "https://getmalus.com/invite?affid=A326761904F",
-          "description": "免费开启高速回国通道，观看视频高清不卡顿，加速游戏不丢包，专属客服支持服务。回国游戏加速器VPN，为海外华人/留学生/港澳台地区用户提供游戏、音乐、视频、直播等加速服务，专业稳定的全球专线，带你一键穿梭回国。让你畅玩全球游戏，上国内网站，支持优酷、爱奇艺、腾讯视频、bilibili、芒果TV、西瓜视频、QQ音乐、网易云音乐、视CCTV、咪咕视频等国内网站，百万用户整体好评95%以上，一对一在线客服支持，海外党翻墙回中国首选VPN",
-          "icon": "/assets/favicon_1770460615271.ico",
-          "enabled": true
-        },
-        {
-          "id": "1770460801712",
-          "title": "加速器会员 | 清爽无广告，线路任你选",
-          "href": "https://www.transocks.com/payment?affiliate-code=jpmm4px",
-          "description": "帮助海外华人轻松回国，轻松访问国内网站或应用，畅享国内音乐和视频资源，一键解决播放卡顿。回国加速器首选穿梭加速器。",
-          "icon": "/assets/favicon_1770460825592.ico",
-          "enabled": true
-        },
-        {
-          "id": "1770460901652",
-          "title": "海外华人回国加速器",
-          "href": "https://af.kuaifan.club/scripts/chm1f4?a_aid=690d677762c73&a_bid=b9bf8033",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=af.kuaifan.club",
-          "enabled": true
-        },
-        {
-          "id": "1770460947716",
-          "title": "海外华人回国加速器",
-          "href": "https://www.golinkcn.com/mobile?invite=CILEMMIG",
-          "description": "",
-          "icon": "/assets/favicon_1770460967441.png",
-          "enabled": true
-        },
-        {
-          "id": "1770461012827",
-          "title": "海外华人一键回国加速器",
-          "href": "https://www.quick-fox.com/landingV5/?af_channel=cHJvbW90ZXI&af_referrer_customer_id=NDczNzI1",
-          "description": "海外华人回国加速器，为境外华人解决海外怎么听歌？海外怎么看剧？海外怎么玩游戏不卡等境外难题，全球回国稳定国内节点，专业、流畅加速让海外党们一键轻松回国，简单好用",
-          "icon": "/assets/favicon_1770461017740.ico",
-          "enabled": true
-        }
-      ],
       "subCategories": []
     },
     {
