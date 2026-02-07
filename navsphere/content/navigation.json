@@ -110,6 +110,14 @@
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.canghaiip.com",
               "enabled": true
+            },
+            {
+              "id": "1770487837897",
+              "title": "云创 IP",
+              "href": "https://dxycip.com/index.php/index/login/reg.html?code=lhywantk",
+              "description": "",
+              "icon": "/assets/favicon_1770487842739.png",
+              "enabled": true
             }
           ]
         },
