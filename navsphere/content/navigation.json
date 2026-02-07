@@ -340,6 +340,14 @@
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=partner.bybits.io",
               "enabled": true
+            },
+            {
+              "id": "1770507883039",
+              "title": "Bitget",
+              "href": "https://www.hdmune.cn/zh-CN/expressly?channelCode=vmz7&vipCode=lhy10000&languageType=1&groupId=605367",
+              "description": "",
+              "icon": "/assets/favicon_1770507917920.png",
+              "enabled": true
             }
           ]
         },
