@@ -1791,7 +1791,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1770440566055",
+          "title": "Haoka",
+          "href": "https://haoka.kakatx.com/web/#/pages/index/index/pages/index/index/?agent_id=29199",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=haoka.kakatx.com",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
