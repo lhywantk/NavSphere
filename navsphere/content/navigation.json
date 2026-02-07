@@ -1811,24 +1811,6 @@
       ]
     },
     {
-      "id": "1770437587849",
-      "title": "苹果ID",
-      "icon": "Folder",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1770437992626",
-          "title": "苹果ID登录教程",
-          "href": "https://my.feishu.cn/wiki/HbqxwIJg4irNfTkfU09crNW1nN6",
-          "description": "看完教程添加QQ获取账号",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=my.feishu.cn",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
       "id": "1770437907919",
       "title": "指纹浏览器",
       "icon": "FolderKanban",
@@ -1865,6 +1847,24 @@
           "href": "https://www.morelogin.com/?from=AAtIt5xX51Lq",
           "description": "",
           "icon": "/assets/favicon_1770455854300.ico",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "1770437587849",
+      "title": "苹果ID",
+      "icon": "Folder",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1770437992626",
+          "title": "苹果ID登录教程",
+          "href": "https://my.feishu.cn/wiki/HbqxwIJg4irNfTkfU09crNW1nN6",
+          "description": "看完教程添加QQ获取账号",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=my.feishu.cn",
           "enabled": true
         }
       ],
