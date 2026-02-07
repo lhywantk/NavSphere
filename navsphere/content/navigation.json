@@ -1911,6 +1911,14 @@
           "description": "",
           "icon": "/assets/favicon_1770449616096.png",
           "enabled": true
+        },
+        {
+          "id": "1770449690931",
+          "title": "芝麻",
+          "href": "https://www.gatewebsite.com/zh/signup?ref_type=103&ref=LHYWANTK",
+          "description": "",
+          "icon": "/assets/favicon_1770449695710.png",
+          "enabled": true
         }
       ],
       "subCategories": []
