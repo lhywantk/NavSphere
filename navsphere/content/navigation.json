@@ -1872,6 +1872,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1770449396964",
+      "title": "交易所",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
