@@ -347,6 +347,40 @@
       "subCategories": []
     },
     {
+      "id": "1770438665138",
+      "title": "跨境支付收款",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1770438720688",
+          "title": "XTransfer",
+          "href": "https://www.xtransfer.cn/h5/promotion/share?code=162834",
+          "description": "外贸收款",
+          "icon": "/assets/favicon_1770438724866.png",
+          "enabled": true
+        },
+        {
+          "id": "1770438838914",
+          "title": "Global",
+          "href": "https://global.lianlianpay.com/signup?bizSource=Y25fY29sbGVjdGlvbg==&invitecode=H33NZIEUFH",
+          "description": "跨境电商收款",
+          "icon": "/assets/favicon_1770438843947.png",
+          "enabled": true
+        },
+        {
+          "id": "1770439056397",
+          "title": "PinkWallet",
+          "href": "https://pinkwallet.com/agent/signup/?code=MTo1rZ",
+          "description": "外贸收款",
+          "icon": "/assets/favicon_1770439060599.png",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
@@ -1895,40 +1929,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1770438665138",
-      "title": "跨境支付收款",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1770438720688",
-          "title": "XTransfer",
-          "href": "https://www.xtransfer.cn/h5/promotion/share?code=162834",
-          "description": "外贸收款",
-          "icon": "/assets/favicon_1770438724866.png",
-          "enabled": true
-        },
-        {
-          "id": "1770438838914",
-          "title": "Global",
-          "href": "https://global.lianlianpay.com/signup?bizSource=Y25fY29sbGVjdGlvbg==&invitecode=H33NZIEUFH",
-          "description": "跨境电商收款",
-          "icon": "/assets/favicon_1770438843947.png",
-          "enabled": true
-        },
-        {
-          "id": "1770439056397",
-          "title": "PinkWallet",
-          "href": "https://pinkwallet.com/agent/signup/?code=MTo1rZ",
-          "description": "外贸收款",
-          "icon": "/assets/favicon_1770439060599.png",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
     },
     {
       "id": "1770440234317",
