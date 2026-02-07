@@ -87,6 +87,14 @@
               "description": "Proxy service. Buy proxy, personal and anonymous. IPv4, IPv6 proxy. HTTPs, Socks5 proxy. Proxy for social networks",
               "icon": "/assets/favicon_1770427087181.png",
               "enabled": true
+            },
+            {
+              "id": "1770439327054",
+              "title": "Iproyal",
+              "href": "https://iproyal.cn/?r=lhywantk",
+              "description": "",
+              "icon": "/assets/favicon_1770439332297.png",
+              "enabled": true
             }
           ]
         }
