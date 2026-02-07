@@ -2056,7 +2056,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1770505284798",
+              "title": "GMGN.AI Fast Trade, Fast Copy Trade, Fast AFK Automation.",
+              "href": "https://gmgn.ai/r/lhywantk",
+              "description": "GMGN Follow the smart money and KOL, discover future hot assets, and let GMGN take you one step ahead! track unrealized/realized profit, discover Smart Traders, and monitor wallet movement in real-time.",
+              "icon": "/assets/favicon_1770505287975.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
