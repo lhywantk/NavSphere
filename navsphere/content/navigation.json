@@ -1784,6 +1784,15 @@
       "enabled": false,
       "items": [],
       "subCategories": []
+    },
+    {
+      "id": "1770440531402",
+      "title": "流量卡",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
