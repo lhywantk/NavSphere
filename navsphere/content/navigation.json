@@ -135,6 +135,14 @@
               "description": "TK专用网络",
               "icon": "/assets/favicon_1770440005833.png",
               "enabled": true
+            },
+            {
+              "id": "1770464296740",
+              "title": "全球代理",
+              "href": "https://www.quanqiudaili.com/m/home?ref=lhywantk",
+              "description": "",
+              "icon": "/assets/favicon_1770464301482.png",
+              "enabled": true
             }
           ]
         }
