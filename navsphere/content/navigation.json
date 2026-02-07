@@ -381,6 +381,32 @@
       "subCategories": []
     },
     {
+      "id": "1770440531402",
+      "title": "流量卡",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1770440566055",
+          "title": "免费领流量卡",
+          "href": "https://haoka.kakatx.com/web/#/pages/index/index/pages/index/index/?agent_id=29199",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=haoka.kakatx.com",
+          "enabled": true
+        },
+        {
+          "id": "1770440653983",
+          "title": "免费领流量卡",
+          "href": "https://172.lot-ml.com/ProductEn/Index/863e070345a18819",
+          "description": "",
+          "icon": "/assets/favicon_1770440658884.png",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
@@ -1937,32 +1963,6 @@
       "description": "",
       "enabled": false,
       "items": [],
-      "subCategories": []
-    },
-    {
-      "id": "1770440531402",
-      "title": "流量卡",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1770440566055",
-          "title": "免费领流量卡",
-          "href": "https://haoka.kakatx.com/web/#/pages/index/index/pages/index/index/?agent_id=29199",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=haoka.kakatx.com",
-          "enabled": true
-        },
-        {
-          "id": "1770440653983",
-          "title": "免费领流量卡",
-          "href": "https://172.lot-ml.com/ProductEn/Index/863e070345a18819",
-          "description": "",
-          "icon": "/assets/favicon_1770440658884.png",
-          "enabled": true
-        }
-      ],
       "subCategories": []
     },
     {
