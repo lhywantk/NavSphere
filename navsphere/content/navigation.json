@@ -348,6 +348,14 @@
               "description": "",
               "icon": "/assets/favicon_1770507917920.png",
               "enabled": true
+            },
+            {
+              "id": "1770507976194",
+              "title": "芝麻",
+              "href": "https://www.gatewebsite.com/zh/signup?ref_type=103&ref=LHYWANTK",
+              "description": "",
+              "icon": "/assets/favicon_1770507980647.png",
+              "enabled": true
             }
           ]
         },
