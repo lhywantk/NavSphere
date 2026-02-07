@@ -1961,6 +1961,14 @@
               "description": "Manage your redfinger account, buy or renew cloud phones, check order history.",
               "icon": "/assets/favicon_1770455366780.png",
               "enabled": true
+            },
+            {
+              "id": "1770455424582",
+              "title": "Zy",
+              "href": "https://zy.16163.com/app/activity.html#/personalinvite/shared/nAKR1e",
+              "description": "",
+              "icon": "/assets/favicon_1770455429663.png",
+              "enabled": true
             }
           ]
         },
