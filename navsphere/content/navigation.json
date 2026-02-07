@@ -143,6 +143,14 @@
               "description": "",
               "icon": "/assets/favicon_1770464301482.png",
               "enabled": true
+            },
+            {
+              "id": "1770464382699",
+              "title": "Smartproxy",
+              "href": "https://www.smartproxy.cn/?invite=undefined",
+              "description": "",
+              "icon": "/assets/favicon_1770464389005.png",
+              "enabled": true
             }
           ]
         }
