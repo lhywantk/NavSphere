@@ -1861,6 +1861,14 @@
           "description": "",
           "icon": "/assets/favicon_1770441995732.png",
           "enabled": true
+        },
+        {
+          "id": "1770442279097",
+          "title": "Gname",
+          "href": "https://m.gname.vip/zhcn/index.html#/ykj_shop_info?id=379855",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=m.gname.vip",
+          "enabled": true
         }
       ],
       "subCategories": []
