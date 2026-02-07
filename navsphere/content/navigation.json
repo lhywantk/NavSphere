@@ -126,6 +126,14 @@
               "description": "",
               "icon": "/assets/favicon_1770487886804.svg",
               "enabled": true
+            },
+            {
+              "id": "1770487934649",
+              "title": "U加速",
+              "href": "https://u.lhip.cc/user/shop?id=1799",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=u.lhip.cc",
+              "enabled": true
             }
           ]
         },
