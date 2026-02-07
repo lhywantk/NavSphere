@@ -555,6 +555,56 @@
       "subCategories": []
     },
     {
+      "id": "1770459828570",
+      "title": "模拟器",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1770462225357",
+          "title": "Developer",
+          "href": "https://developer.android.com/",
+          "description": "",
+          "icon": "/assets/favicon_1770462230488.png",
+          "enabled": true
+        },
+        {
+          "id": "1770462283235",
+          "title": "雷电模拟器",
+          "href": "https://m.ldmnq.com/",
+          "description": "",
+          "icon": "/assets/favicon_1770462287950.png",
+          "enabled": true
+        },
+        {
+          "id": "1770462327841",
+          "title": "Mumu",
+          "href": "https://mumu.163.com/",
+          "description": "",
+          "icon": "/assets/favicon_1770462357104.png",
+          "enabled": true
+        },
+        {
+          "id": "1770462372691",
+          "title": "夜神模擬器",
+          "href": "https://tw.bignox.com/",
+          "description": "",
+          "icon": "/assets/favicon_1770462389181.ico",
+          "enabled": true
+        },
+        {
+          "id": "1770462434241",
+          "title": "Bluestacks",
+          "href": "https://www.bluestacks.cn/",
+          "description": "",
+          "icon": "/assets/favicon_1770462438748.png",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
@@ -2111,56 +2161,6 @@
       "description": "",
       "enabled": false,
       "items": [],
-      "subCategories": []
-    },
-    {
-      "id": "1770459828570",
-      "title": "模拟器",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1770462225357",
-          "title": "Developer",
-          "href": "https://developer.android.com/",
-          "description": "",
-          "icon": "/assets/favicon_1770462230488.png",
-          "enabled": true
-        },
-        {
-          "id": "1770462283235",
-          "title": "雷电模拟器",
-          "href": "https://m.ldmnq.com/",
-          "description": "",
-          "icon": "/assets/favicon_1770462287950.png",
-          "enabled": true
-        },
-        {
-          "id": "1770462327841",
-          "title": "Mumu",
-          "href": "https://mumu.163.com/",
-          "description": "",
-          "icon": "/assets/favicon_1770462357104.png",
-          "enabled": true
-        },
-        {
-          "id": "1770462372691",
-          "title": "夜神模擬器",
-          "href": "https://tw.bignox.com/",
-          "description": "",
-          "icon": "/assets/favicon_1770462389181.ico",
-          "enabled": true
-        },
-        {
-          "id": "1770462434241",
-          "title": "Bluestacks",
-          "href": "https://www.bluestacks.cn/",
-          "description": "",
-          "icon": "/assets/favicon_1770462438748.png",
-          "enabled": true
-        }
-      ],
       "subCategories": []
     },
     {
