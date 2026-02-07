@@ -62,6 +62,14 @@
               "description": "",
               "icon": "/assets/favicon_1770464611520.png",
               "enabled": true
+            },
+            {
+              "id": "1770464681640",
+              "title": "糖果 IP",
+              "href": "http://www.tangguoip.com/register/800725",
+              "description": "",
+              "icon": "/assets/favicon_1770464686306.ico",
+              "enabled": true
             }
           ]
         },
