@@ -1668,6 +1668,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1770437907919",
+      "title": "指纹浏览器",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
