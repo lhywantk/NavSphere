@@ -1953,6 +1953,14 @@
               "description": "",
               "icon": "/assets/favicon_1770455306994.svg",
               "enabled": true
+            },
+            {
+              "id": "1770455363088",
+              "title": "Redfinger App",
+              "href": "https://www.cloudemulator.net/app/sign-in?externalCode=HWYGOldm&channelCode=web",
+              "description": "Manage your redfinger account, buy or renew cloud phones, check order history.",
+              "icon": "/assets/favicon_1770455366780.png",
+              "enabled": true
             }
           ]
         },
