@@ -442,6 +442,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=s.worldfirst.com.cn",
           "enabled": true
+        },
+        {
+          "id": "1770514040237",
+          "title": "万里汇",
+          "href": "https://s.worldfirst.com.cn/3vfLQZ3V?default_source=WF-1v00003T8U2c&referral_id=WF-1v00003T8U2c",
+          "description": "跨境电商收款",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=s.worldfirst.com.cn",
+          "enabled": true
         }
       ],
       "subCategories": []
