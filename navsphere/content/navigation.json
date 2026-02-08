@@ -624,6 +624,14 @@
           "description": "TikTok拉新单价130",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=dt.bd.cn",
           "enabled": true
+        },
+        {
+          "id": "1770536447782",
+          "title": "右豹",
+          "href": "https://newapi.thed1g.com/?recommend=11622401",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=newapi.thed1g.com",
+          "enabled": true
         }
       ],
       "subCategories": []
