@@ -2286,7 +2286,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1770509303353",
+          "title": "图像识别",
+          "href": "https://yescaptcha.com/i/bPKeLA",
+          "description": "",
+          "icon": "/assets/favicon_1770509307556.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
