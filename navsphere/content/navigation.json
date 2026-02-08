@@ -2279,6 +2279,15 @@
       "enabled": false,
       "items": [],
       "subCategories": []
+    },
+    {
+      "id": "1770509273395",
+      "title": "图像识别",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
