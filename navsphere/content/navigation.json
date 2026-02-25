@@ -2427,6 +2427,14 @@
               "description": "windows版本",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=wwbfa.lanzoub.com",
               "enabled": true
+            },
+            {
+              "id": "1772034435163",
+              "title": "安卓版",
+              "href": "https://wwbfa.lanzoub.com/iiuKP3a4zhkf",
+              "description": "安装包",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=wwbfa.lanzoub.com",
+              "enabled": true
             }
           ]
         }
