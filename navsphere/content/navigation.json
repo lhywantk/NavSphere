@@ -2385,7 +2385,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1772031922319",
+              "title": "安卓版",
+              "href": "https://dl.p6p.net/karing/1.2.5.882/karing_1.2.5.882_android_arm.apk",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=dl.p6p.net",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
