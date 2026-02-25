@@ -2435,6 +2435,14 @@
               "description": "安装包",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=wwbfa.lanzoub.com",
               "enabled": true
+            },
+            {
+              "id": "1772034613930",
+              "title": "Windows",
+              "href": "https://down.juejinip.com/A-%E6%9C%89%E7%B1%B3%E8%BF%9B%E7%A8%8B%E4%BB%A3%E7%90%86YouMiIp20221218ex%2528%E9%98%B2%E6%96%AD%E8%BF%9E%2529.zip",
+              "description": "安装包",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=down.juejinip.com",
+              "enabled": true
             }
           ]
         }
