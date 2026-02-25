@@ -2329,7 +2329,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "de8ea6bd-a894-4aa8-b3aa-18f1ca20c833",
+          "title": "v2rayN",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
