@@ -2412,6 +2412,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "5681d08d-4740-4f54-8e84-e2520701c4fc",
+          "title": "IP代理工具",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
