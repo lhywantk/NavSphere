@@ -2363,9 +2363,9 @@
             },
             {
               "id": "1772031389815",
-              "title": "v2rayNG",
+              "title": "安卓版",
               "href": "https://release-assets.githubusercontent.com/github-production-release-asset/186733095/958aca1e-7bf0-4d69-9f61-0cfcdaca8299?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-02-25T15%3A30%3A08Z&rscd=attachment%3B+filename%3Dv2rayNG_1.10.32_x86.apk&rsct=application%2Fvnd.android.package-archive&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-02-25T14%3A29%3A55Z&ske=2026-02-25T15%3A30%3A08Z&sks=b&skv=2018-11-09&sig=eb%2Fb47yOvrWDHsJOuNoN6ZbbsCv2IYgUX6KT7ltqMG4%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3MjAzMzE3NywibmJmIjoxNzcyMDMxMzc3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ._jmpGTj71HOnGSxREEpbC7RR88c7NVwRb584JHOP0wQ&response-content-disposition=attachment%3B%20filename%3Dv2rayNG_1.10.32_x86.apk&response-content-type=application%2Fvnd.android.package-archive",
-              "description": "安卓安装包",
+              "description": "安装包",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=release-assets.githubusercontent.com",
               "enabled": true
             }
