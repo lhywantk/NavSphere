@@ -2370,6 +2370,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "0632fc1a-4845-48b6-a1f3-f3cd3e52ff76",
+          "title": "NeKoBox",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
