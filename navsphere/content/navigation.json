@@ -737,15 +737,6 @@
       "subCategories": []
     },
     {
-      "id": "1770488140044",
-      "title": "IP代理工具",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
-    },
-    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
