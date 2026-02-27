@@ -2438,6 +2438,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1772165994184",
+      "title": "支付宝收款码",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
