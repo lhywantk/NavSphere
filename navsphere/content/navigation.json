@@ -2445,7 +2445,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1772166006537",
+          "title": "支付宝收款码牌",
+          "href": "https://ur.alipay.com/_0b48BQODW7lh1lUCMjqO7",
+          "description": "免费领取",
+          "icon": "/assets/favicon_1772166011723.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
