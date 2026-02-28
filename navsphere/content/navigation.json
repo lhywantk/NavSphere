@@ -2456,6 +2456,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1772302613627",
+      "title": "Ai软件",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
