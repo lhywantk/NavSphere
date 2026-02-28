@@ -2463,7 +2463,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1772302669474",
+          "title": "以更低价格共享高级订阅！ | Netflix | YouTube Premium ",
+          "href": "https://www.gamsgo.com/partner/zrh7M",
+          "description": "",
+          "icon": "/assets/favicon_1772302673820.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
