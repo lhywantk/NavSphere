@@ -298,6 +298,14 @@
           "description": "永久免费2个窗口 需要更多窗口联系QQ:3394471892",
           "icon": "/assets/favicon_1770455854300.ico",
           "enabled": true
+        },
+        {
+          "id": "1772824354977",
+          "title": "Yunlogin",
+          "href": "https://www.yunlogin.com/?c=7mrd",
+          "description": "",
+          "icon": "/assets/favicon_1772824360297.png",
+          "enabled": true
         }
       ],
       "subCategories": []
