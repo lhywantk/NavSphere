@@ -408,6 +408,14 @@
           "description": "看完教程添加QQ获取账号",
           "icon": "https://ww2.sinaimg.cn/mw690/7d06b27ely1hr1okqh4dej20hp0bmq44.jpg",
           "enabled": true
+        },
+        {
+          "id": "1772855611466",
+          "title": "苹果ID购买",
+          "href": "https://www.xiaohongshu.com/goods-detail/69656a019c11770001f3f997?t=1772855621731&xsec_token=ABJV1Al5ZXouJSksDgyWjo09eBuGOw6ly4FDm83y9V1QQ%3D&xsec_source=app_arkselfshare",
+          "description": "🇨🇳🇺🇸🇯🇵🇭🇰🇷🇺\n🇫🇷🇹🇭🇲🇾🇸🇬🇰🇷\n🇻🇳🇹🇷🇦🇺🇳🇬🇲🇴",
+          "icon": "/assets/favicon_1772855629879.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
